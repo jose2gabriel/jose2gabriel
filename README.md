@@ -27,7 +27,7 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 
 ## 🐍 Cobrinhas nos commits
 
-![Snake animation](https://raw.githubusercontent.com/jose2gabriel/jose2gabriel/main/snake.svg)
+![Snake animation](snake.svg)
 
 ---
 
