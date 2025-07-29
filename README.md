@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel!
+# 👋 Olá, eu sou o José Gabriel!
 
 ## 🌿 Sobre mim
 
@@ -19,7 +19,7 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 
 ## 📊 Minhas estatísticas do GitHub
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=green-eco)
+![José Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=green-eco)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&theme=green-eco)
 
@@ -33,6 +33,5 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [seulinkedin](https://www.linkedin.com/in/seulinkedin)
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
 - Email: seuemail@gmail.com
-
