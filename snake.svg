@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SVG animado da cobrinha para o GitHub Profile Snake -->
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120">
+  <defs>
+    <pattern id="snake" patternUnits="userSpaceOnUse" width="60" height="120">
+      <path d="M10 10 Q 30 0 50 10 T 90 10" stroke="#27ae60" stroke-width="6" fill="none" />
+      <circle cx="10" cy="10" r="5" fill="#2ecc71" />
+      <circle cx="50" cy="10" r="5" fill="#2ecc71" />
+      <circle cx="90" cy="10" r="5" fill="#2ecc71" />
+    </pattern>
+  </defs>
+  <rect width="600" height="120" fill="url(#snake)">
+    <animate attributeName="x" from="0" to="-60" begin="0s" dur="4s" repeatCount="indefinite" />
+  </rect>
+</svg>
