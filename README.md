@@ -24,17 +24,20 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&theme=green-eco)
 
 ---
+
+## 🐍 Cobra dos commits (GitHub Contribution Snake)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose2gabriel/jose2gabriel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jose2gabriel/jose2gabriel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jose2gabriel/jose2gabriel/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_Gerado com [Platane/snk](https://github.com/Platane/snk)_
 
-
+---
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-- Email: seuemail@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
+- 📧 seuemail@gmail.com
