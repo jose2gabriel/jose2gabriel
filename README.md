@@ -25,11 +25,7 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 
 ---
 
-## 🐍 Cobrinhas nos commits
 
-![Snake animation](snake.svg)
-
----
 
 ## 📫 Como me encontrar
 
