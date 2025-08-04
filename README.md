@@ -21,11 +21,11 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 
 ![José Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=green-eco)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&langs_count=6&hide=java,php,shell&theme=green-eco)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&langs_count=6&theme=green-eco)
 
 ---
 
 ## 📫 Como me encontrar
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-- 📧 Email: seuemail@gmail.com
+- 📧 seuemail@gmail.com
