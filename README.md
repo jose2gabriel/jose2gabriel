@@ -14,17 +14,11 @@
       animation: fadeInOut 6s infinite;
       display: inline-block;
     ">
-      Desenvolvedor Full Stack apaixonado por código limpo e inovação.
+      Desenvolvedor backend apaixonado por código limpo e inovação.
     </span>
   </em>
 </p>
 
-<style>
-@keyframes fadeInOut {
-  0%, 100% {opacity: 0;}
-  50% {opacity: 1;}
-}
-</style>
 
 
 ## 🛠️ Skills & Tecnologias
@@ -57,9 +51,9 @@
 
 | Projeto                  | Descrição                               | Link                                  |
 |-------------------------|---------------------------------------|-------------------------------------|
-| **Isidório Sports**      | E-commerce de artigos esportivos       | [Repositório](https://github.com/jose2gabriel/isidorio-sports) |
-| **Agenda Simples**       | Sistema de agenda com exportação CSV   | [Repositório](https://github.com/jose2gabriel/agenda-simples)  |
-| **Meu Portfolio**        | Site pessoal com blog e projetos        | [Website](https://jose2gabriel.dev)                              |
+| **Isidório Sports**      | E-commerce de artigos esportivos       | [website](https://isidoriosports.netlify.app/) |
+| **Agenda Simples**       | Sistema de agenda com exportação CSV   | [website](https://gerenciador-contatos-a177ee.netlify.app/)  |
+                             
 
 ---
 
