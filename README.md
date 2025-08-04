@@ -8,46 +8,24 @@
 
 ## Sobre mim
 
-<p align="center" style="font-style: italic; font-weight: 500; position: relative; height: 1.5em; overflow: hidden;">
-  <span class="fade-text">Desenvolvedor Full Stack</span>
-  <span class="fade-text">Apaixonado por TypeScript e React</span>
-  <span class="fade-text">Fã de código limpo e boas práticas</span>
-  <span class="fade-text">Explorando DevOps e Cloud</span>
+<p align="center">
+  <em>
+    <span style="
+      animation: fadeInOut 6s infinite;
+      display: inline-block;
+    ">
+      Desenvolvedor Full Stack apaixonado por código limpo e inovação.
+    </span>
+  </em>
 </p>
 
 <style>
-.fade-text {
-  position: absolute;
-  width: 100%;
-  opacity: 0;
-  animation-name: fadeSlide;
-  animation-duration: 12s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
-  animation-fill-mode: forwards;
-}
-
-.fade-text:nth-child(1) {
-  animation-delay: 0s;
-}
-.fade-text:nth-child(2) {
-  animation-delay: 3s;
-}
-.fade-text:nth-child(3) {
-  animation-delay: 6s;
-}
-.fade-text:nth-child(4) {
-  animation-delay: 9s;
-}
-
-@keyframes fadeSlide {
-  0% {opacity: 0; transform: translateY(20px);}
-  10%, 25% {opacity: 1; transform: translateY(0);}
-  40%, 100% {opacity: 0; transform: translateY(-20px);}
+@keyframes fadeInOut {
+  0%, 100% {opacity: 0;}
+  50% {opacity: 1;}
 }
 </style>
 
----
 
 ## 🛠️ Skills & Tecnologias
 
