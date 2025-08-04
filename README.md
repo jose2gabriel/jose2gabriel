@@ -25,7 +25,7 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 
 ---
 
-## 🐍 Cobra dos commits (GitHub Contribution Snake)
+## 🐍 Cobra dos commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose2gabriel/jose2gabriel/output/github-contribution-grid-snake-dark.svg">
@@ -40,4 +40,5 @@ _Gerado com [Platane/snk](https://github.com/Platane/snk)_
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-- 📧 seuemail@gmail.com
+- 📧 
+
