@@ -1,31 +1,108 @@
-# 👋 Olá, eu sou o José Gabriel!
+# Olá, eu sou José Gabriel 👋
 
-## 🌿 Sobre mim
-
-Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado contínuo e projetos inovadores.
+<p align="center">
+  <img src="https://github.com/jose2gabriel.png" width="150" alt="Foto do José Gabriel" style="border-radius:50%" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que uso
+## Sobre mim
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <em>
+    Desenvolvedor Full Stack | Apaixonado por código limpo, arquitetura de software e open source.<br/>
+    Atualmente explorando <strong>TypeScript, React, Node.js</strong> e <strong>DevOps</strong>.
+  </em>
+</p>
+
+<p align="center">
+  <sub>
+    <!-- Animação de fade-in e fade-out simples usando HTML + CSS inline para GitHub -->
+    <span style="animation: fadeInOut 6s infinite;">
+      "Código é a linguagem que transforma ideias em realidade."
+    </span>
+  </sub>
+</p>
+
+<style>
+@keyframes fadeInOut {
+  0%, 100% {opacity: 0;}
+  50% {opacity: 1;}
+}
+</style>
+
+---
+
+## 🛠️ Skills & Tecnologias
+
+<p align="center">
+  <!-- Ícones SVG ou imagens via shields.io -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 Minhas estatísticas do GitHub
 
-![José Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=green-eco)
+<p align="center">
+  <!-- GitHub stats incluindo projetos privados e colaborador -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&langs_count=6&theme=green-eco)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto                  | Descrição                               | Link                                  |
+|-------------------------|---------------------------------------|-------------------------------------|
+| **Isidório Sports**      | E-commerce de artigos esportivos       | [Repositório](https://github.com/jose2gabriel/isidorio-sports) |
+| **Agenda Simples**       | Sistema de agenda com exportação CSV   | [Repositório](https://github.com/jose2gabriel/agenda-simples)  |
+| **Meu Portfolio**        | Site pessoal com blog e projetos        | [Website](https://jose2gabriel.dev)                              |
 
 ---
 
 ## 📫 Como me encontrar
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-- 📧 seuemail@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/jose2gabriel" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:jose.gabriel@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/jose2gabriel" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🏆 Badges e Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jose2gabriel&theme=radical&no-frame=true&no-bg=true" alt="Troféus do GitHub" />
+</p>
+
+---
+
+### Obrigado pela visita! 🙏
+
+Se gostou do meu trabalho, deixe uma ⭐ no repositório e sinta-se à vontade para colaborar.
+
+---
+
+<!--
+Para atualizar as estatísticas, use o site https://github.com/anuraghazra/github-readme-stats
+Para mais ícones veja https://shields.io/
+-->
+
