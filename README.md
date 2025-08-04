@@ -20,12 +20,12 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
 ## 📊 Minhas estatísticas do GitHub
 
 ![José Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=green-eco)
-
+  
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&theme=green-eco)
 
 ---
 
-## 🐍 Cobra dos commits
+## 🐍 Animação da cobrinha
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose2gabriel/jose2gabriel/output/github-contribution-grid-snake-dark.svg">
@@ -33,12 +33,11 @@ Desenvolvedor apaixonado por tecnologia e programação, focado em aprendizado c
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jose2gabriel/jose2gabriel/output/github-contribution-grid-snake.svg">
 </picture>
 
-_Gerado com [Platane/snk](https://github.com/Platane/snk)_
+> _Gerado com [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-- 📧 
 
+- 📧 Email: regencygabriel45@gmail.com
