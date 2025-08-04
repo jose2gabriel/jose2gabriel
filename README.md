@@ -8,26 +8,42 @@
 
 ## Sobre mim
 
-<p align="center">
-  <em>
-    Desenvolvedor Full Stack | Apaixonado por código limpo, arquitetura de software e open source.<br/>
-    Atualmente explorando <strong>TypeScript, React, Node.js</strong> e <strong>DevOps</strong>.
-  </em>
-</p>
-
-<p align="center">
-  <sub>
-    <!-- Animação de fade-in e fade-out simples usando HTML + CSS inline para GitHub -->
-    <span style="animation: fadeInOut 6s infinite;">
-      "Código é a linguagem que transforma ideias em realidade."
-    </span>
-  </sub>
+<p align="center" style="font-style: italic; font-weight: 500; position: relative; height: 1.5em; overflow: hidden;">
+  <span class="fade-text">Desenvolvedor Full Stack</span>
+  <span class="fade-text">Apaixonado por TypeScript e React</span>
+  <span class="fade-text">Fã de código limpo e boas práticas</span>
+  <span class="fade-text">Explorando DevOps e Cloud</span>
 </p>
 
 <style>
-@keyframes fadeInOut {
-  0%, 100% {opacity: 0;}
-  50% {opacity: 1;}
+.fade-text {
+  position: absolute;
+  width: 100%;
+  opacity: 0;
+  animation-name: fadeSlide;
+  animation-duration: 12s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+}
+
+.fade-text:nth-child(1) {
+  animation-delay: 0s;
+}
+.fade-text:nth-child(2) {
+  animation-delay: 3s;
+}
+.fade-text:nth-child(3) {
+  animation-delay: 6s;
+}
+.fade-text:nth-child(4) {
+  animation-delay: 9s;
+}
+
+@keyframes fadeSlide {
+  0% {opacity: 0; transform: translateY(20px);}
+  10%, 25% {opacity: 1; transform: translateY(0);}
+  40%, 100% {opacity: 0; transform: translateY(-20px);}
 }
 </style>
 
@@ -36,7 +52,6 @@
 ## 🛠️ Skills & Tecnologias
 
 <p align="center">
-  <!-- Ícones SVG ou imagens via shields.io -->
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
@@ -51,7 +66,6 @@
 ## 📊 Minhas estatísticas do GitHub
 
 <p align="center">
-  <!-- GitHub stats incluindo projetos privados e colaborador -->
   <img src="https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
@@ -80,9 +94,6 @@
   <a href="mailto:jose.gabriel@example.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/jose2gabriel" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 ---
@@ -99,10 +110,7 @@
 
 Se gostou do meu trabalho, deixe uma ⭐ no repositório e sinta-se à vontade para colaborar.
 
----
-
 <!--
 Para atualizar as estatísticas, use o site https://github.com/anuraghazra/github-readme-stats
 Para mais ícones veja https://shields.io/
 -->
-
