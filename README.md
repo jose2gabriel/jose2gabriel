@@ -1,76 +1,56 @@
 <h2 align="center">About Me ✌️</h2>
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-    alt="Ilustração de um computador" 
-    width="400"
+  <img
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    width="350"
+    alt="Notebook illustration"
   />
 
-  <br><br>
-
-  <p align="center">
-    🔭 Atualmente estou trabalhando com <strong>TypeScript</strong>
+  <p>
+    🔭 Desenvolvedor focado em <strong>TypeScript</strong> e aplicações modernas
   </p>
 
-  <p align="center">
-    <a href="mailto:jose2gabriel17f@gmail.com?subject=Contato&body=Olá%20José!" alt="Gmail">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
+  <p align="left">
+  <a href="mailto:jose2gabriel17f@gmail.com?subject= contate me&body=" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
-    <a href="https://wa.me/5586998552173" alt="WhatsApp">
-      <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
-    </a>
-
-    <a href="https://www.instagram.com/luka_santos_/" alt="Instagram">
-      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
-    </a>
+  <a href="https://www.instagram.com/gabrielzinho_17f/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luka_santos_/"/></a>
   </p>
 </div>
 
 ---
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" />
-  Technologies & GitHub Profile
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" />
-</h2>
+<h3 align="center">Technologies</h3>
 
-<div align="center">
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"></code>
-</div>
+<p align="center">
+  <!-- FRONTEND -->
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-<br>
+  <!-- BACKEND -->
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=jose2gabriel&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</div>
+  <!-- DATABASE / ORM -->
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+</p>
 
 ---
 
-<h2 align="center">GitHub Status</h2>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jose2gabriel&theme=github-dark&hide_border=true"
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Obrigado+por+visitar+meu+GitHub!+%F0%9F%9A%80"
+  />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&theme=dark&layout=compact" />
-
-  <br><br>
-
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jose2gabriel&theme=dark&hide_border=true" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jose2gabriel&theme=dark&show_icons=true" />
-
-</div>
