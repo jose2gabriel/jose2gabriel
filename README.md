@@ -36,21 +36,12 @@
 <div  align="center">
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>
-  
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
-
-  <code><img height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" /></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/></code>
-
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /></code>
 
    <div align="right">
    <p align="center">
@@ -60,7 +51,7 @@
     >
       <img
         width="800"
-        src="https://github-profile-trophy.vercel.app/?username=L3Santos&column=8&theme=darkhub&no-frame=true&no-bg=true"
+        src="https://github-profile-trophy.vercel.app/?username=jose2gabriel&column=8&theme=darkhub&no-frame=true&no-bg=true"
       />
     </a>
   </p>
@@ -70,10 +61,10 @@
 <h2 align="center"> GitHub Status </h2>
 <div align="center">
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=L3Santos&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=L3Santos&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></img>
-[![iuricode](https://github-readme-stats.vercel.app/api?username=L3Santos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jose2gabriel&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></img>
+[![iuricode](https://github-readme-stats.vercel.app/api?username=jose2gabriel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
