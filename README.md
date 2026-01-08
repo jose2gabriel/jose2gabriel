@@ -1,88 +1,79 @@
-# Olá, eu sou José Gabriel 👋
+<h2 align="center"> About Me ✌️</h2>
+</br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
-  <img src="https://github.com/jose2gabriel.png" width="150" alt="Foto do José Gabriel" style="border-radius:50%" />
-</p>
+  <p align="left"> 
+    🔭 Atualmente estou trabalhando com typescript 
+  
+  <p align="left">
+  <a href="mailto:jose2gabriel17f@gmail.com?subject= contate me&body=" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
----
+  <a href="https://wa.me/5586998552173" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-## Sobre mim
-
-<p align="center">
-  <em>
-    <span style="
-      animation: fadeInOut 6s infinite;
-      display: inline-block;
-    ">
-      Desenvolvedor backend apaixonado por código limpo e inovação.
-    </span>
-  </em>
-</p>
-
+  <a href="https://www.instagram.com" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luka_santos_/"/></a>
+  </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
-## 🛠️ Skills & Tecnologias
 
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-</p>
+<h2  align="center"> 
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px >  
+  Technologies And GitHub Profile
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px >
+</h2>
 
----
+<div  align="center">
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>
+  
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
 
-## 📊 Minhas estatísticas do GitHub
+  <code><img height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/></code>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose2gabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /></code>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose2gabriel&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+   <div align="right">
+   <p align="center">
+    <a
+      href="https://github.com/ryo-ma/github-profile-trophy"
+      title="repositório de troféus"
+    >
+      <img
+        width="800"
+        src="https://github-profile-trophy.vercel.app/?username=L3Santos&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      />
+    </a>
+  </p>
+ </div>
+</div>          
 
----
+<h2 align="center"> GitHub Status </h2>
+<div align="center">
 
-## 🚀 Projetos em destaque
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=L3Santos&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
-| Projeto                  | Descrição                               | Link                                  |
-|-------------------------|---------------------------------------|-------------------------------------|
-| **Isidório Sports**      | E-commerce de artigos esportivos       | [website](https://isidoriosports.netlify.app/) |
-| **Agenda Simples**       | Sistema de agenda com exportação CSV   | [website](https://gerenciador-contatos-a177ee.netlify.app/)  |
-                             
+<img src="http://github-readme-streak-stats.herokuapp.com?user=L3Santos&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></img>
+[![iuricode](https://github-readme-stats.vercel.app/api?username=L3Santos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+</div>
 
-## 📫 Como me encontrar
-
-<p align="center">
-  <a href="https://linkedin.com/in/jose2gabriel" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:jose.gabriel@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 🏆 Badges e Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jose2gabriel&theme=radical&no-frame=true&no-bg=true" alt="Troféus do GitHub" />
-</p>
-
----
-
-### Obrigado pela visita! 🙏
-
-Se gostou do meu trabalho, deixe uma ⭐ no repositório e sinta-se à vontade para colaborar.
-
-<!--
-Para atualizar as estatísticas, use o site https://github.com/anuraghazra/github-readme-stats
-Para mais ícones veja https://shields.io/
--->
